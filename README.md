@@ -2,6 +2,6 @@
 ## Hello World GIT
 * Update readme 
 * Update before rebase
-# Update readme 
-* tag unstable
-* to latest
+# Getting Started
+* Clone this repo
+* edit and commit
